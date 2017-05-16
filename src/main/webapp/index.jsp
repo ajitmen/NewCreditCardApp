@@ -6,9 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Credit Card Application</title>
 <style type="text/css">
-.post-content {
-	background-image: url(http://vm-dev.eastus.cloudapp.azure.com:8080/CreditCardApp/Building_image.jpg);
-}
+
 </style>
 <script>
 	function submitFunction() {    

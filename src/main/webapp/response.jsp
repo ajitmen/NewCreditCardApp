@@ -8,7 +8,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>User Logged Successfully </title>
 </head>
-<body background ="Building_image.jpg">
+<body>
 <center>
 		<h2 style="color: blue;">CREDIT CARD APPLICATION DETAILS</h2>
 	</center>
